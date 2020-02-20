@@ -1,0 +1,66 @@
+.title-pg{
+    font-size: 2em;
+    font-weight: 900;
+    text-transform: uppercase;
+};
+
+.btn-add{
+    margin-bottom: 10px;
+};
+
+header {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .contents {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .cadastros {
+    width: 100%;
+    max-width: 500px;
+  }
+  
+  .forms {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .fields {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #DDD;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+  }
+  
+  h3 {
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+  }
+  
+  .menus {
+  max-width: auto;
+  margin: 0 auto;
+  padding: 0 2%;
+  }
+  
+  .barras {
+    padding: 9px 0;
+    text-align: right;
+    background: #373737;
+  }
+  
+  header li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  
+  header a {
+    text-decoration: none;
+    color: white;
+  }
